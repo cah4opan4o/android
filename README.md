@@ -22,7 +22,6 @@
 - [Вконтакте](https://vk.com/cah4opan4o)
 
 ```sh
-using namespace std;
 int main(){
   cout << "Hello World!";
 }
