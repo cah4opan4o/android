@@ -19,4 +19,4 @@
 > looking like it's been marked up with tags
 > or formatting instructions.
 
-- [Github](github.com)
+- [Вконтакте](https://vk.com/cah4opan4o)
