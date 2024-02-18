@@ -27,8 +27,8 @@ int main(){
 }
 ```
 
-| Platform | Link |
+| Platform | Content |
 | ------ | ------ |
-|YT|[youtube.com](youtube.com)|
-|TTV|[twitch.tv]|
-|VK|[vk.com]|
+|YT|Video|
+|TTV|Stream|
+|VK|messenger|
