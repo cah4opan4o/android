@@ -26,3 +26,9 @@ int main(){
   cout << "Hello World!";
 }
 ```
+
+| Platform | Link |
+| ------ | ------ |
+|YT|[youtube.com]|
+|TTV|[twitch.tv]|
+|VK|[vk.com]|
