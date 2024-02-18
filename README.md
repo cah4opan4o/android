@@ -29,6 +29,6 @@ int main(){
 
 | Platform | Link |
 | ------ | ------ |
-|YT|youtube.com(youtube.com)|
+|YT|[youtube.com](youtube.com)|
 |TTV|[twitch.tv]|
 |VK|[vk.com]|
